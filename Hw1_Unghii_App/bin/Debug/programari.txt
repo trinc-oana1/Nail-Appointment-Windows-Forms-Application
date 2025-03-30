@@ -1,0 +1,9 @@
+Utilizator: oana
+Model: medie, ovala, alb, sclipici, mat
+Programare : Thursday, March 27, 2025 la ora 12:15
+Utilizator: ana
+Model: medie, migdala, negru, simplu, lucios
+Programare : Saturday, March 29, 2025 la ora 10:30
+Utilizator: sofia
+Model: medie, ovala, alb, sclipici, lucios
+Programare : Friday, April 4, 2025 la ora 15:30
